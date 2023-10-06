@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: 0px;
+}
+
+.sidebar{
+    border-right: 2px solid yellow;
+    height: auto;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    background-color: yellow;
+    color: black;
+}
+
+.active{
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
